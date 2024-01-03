@@ -8,7 +8,7 @@ function App() {
        {/* add image here */}
         <h1>Welcome to Sam Fathi's Personal Website</h1>
         <p>
-          Hello, I'm Sam Fathi. This is my personal website.
+          Hello, I'm Sam. This is my personal website.
         </p>
         <p>
           Here you can find information about me, my projects, and more.
